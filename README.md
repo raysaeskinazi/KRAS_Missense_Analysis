@@ -9,7 +9,8 @@
 The *KRAS* oncogene is one of the most frequently mutated genes in human cancers. This project bridges data science and structural biology by filtering a large-scale clinical dataset and mapping the identified missense mutations onto the 3D protein structure to understand their functional impact.
 
 ## 🔬 Data Processing Pipeline (Dry-Lab)
-A clinical dataset comprising 247 cancer patients was processed and filtered using **Python (Pandas)**.
+### 📊 Data Source
+The clinical and genomic dataset comprising 247 patient records was acquired from the **[cBioPortal for Cancer Genomics](https://www.cbioportal.org/)**. The dataset was specifically queried for missense mutations within the *KRAS* gene across diverse cancer types to evaluate recurrent hotspots. A clinical dataset comprising 247 cancer patients was processed and filtered using **Python (Pandas)**.
 * **Data Cleaning:** Handled missing values and standardized patient records.
 * **Variant Filtering:** Isolated clinically actionable missense mutations within the KRAS gene.
 * **Output:** A refined dataset highlighting the most recurrent and structurally significant mutations (e.g., Codon 12 alterations).
