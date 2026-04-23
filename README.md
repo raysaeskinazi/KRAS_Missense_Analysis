@@ -22,7 +22,9 @@ Mutations at critical residues (such as G12 or Q61) disrupt the intrinsic GTPase
 
 ### 3D Structural Visualization
 <img width="3000" height="1799" alt="KRAS_Analytical_Final" src="https://github.com/user-attachments/assets/9578328d-e8fb-4ed3-aab3-601dce08ba64" />
+**The wild-type**
 <img width="3000" height="1799" alt="KRAS_G12C_Mutant" src="https://github.com/user-attachments/assets/6aff267d-7f0a-47e8-92e3-6bb38d237186" />
+**The mutant type**
 
 
 *Visualization of the KRAS functional domains and the highlighted missense mutation hotspots derived from the clinical dataset.*
